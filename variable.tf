@@ -1,11 +1,11 @@
 variable "access_key" {
   description = "This is the access key"
-  default     = "AKIAZ4AXXJN2DLMDWTVV"                                       #Generate your own keys#
+  default     = "AKIAZ4AXXJN2AQ2EK3WV"                                       #Generate your own keys#
 }
 
 variable "secret_key" {
   description = "This is the secret key required with the access key"
-  default     = "5+VwG42E8KXGILtAZ7fgY1stvwd2fFcFuWIRuCpd"                    #Generate your own keys#
+  default     = "zmfp0Bd6kIAqUmgKI5MK9uv3pQlaNGUC8CeO3aYm"                    #Generate your own keys#
 }
 
 variable "aws_region" {
